@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+								<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="mohitmaithani"><a class="LI-simple-link" href='https://in.linkedin.com/in/mohitmaithani?trk=profile-badge'>Mohit Maithani</a></div>
 <!--
 **mmaithani/mmaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
