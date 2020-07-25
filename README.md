@@ -1,19 +1,18 @@
 ### Hi there 👋
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="mohitmaithani"><a class="LI-simple-link" href='https://in.linkedin.com/in/mohitmaithani?trk=profile-badge'>Mohit Maithani</a></div>
+✨ 
+[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)
+[![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)](https://twitter.com/xaret_)
+[![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)](https://github.com/login?return_to=%2Fmmaithani)
+---
+[<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)    [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)    [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/xaret_)    **[Mohit Maithani](https://mmaithani.github.io)**    |  Tech enthusiast (Data Science)
 
 <!--
-**mmaithani/mmaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning deep learning Deep learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
