@@ -6,8 +6,8 @@
 [<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)  
 
 <img width="50" src="tumblr_mcnyszWcoU1qfqgb9o1_500.gif" alt="kitty" />
-**[Website](https://mmaithani.github.io)**  
-<img width="50" src="tumblr_m8kuxjuJcg1qdemqzo1_400.gif" alt="kitty" />
+
+**[Website](https://mmaithani.github.io) <img width="50" src="tumblr_m8kuxjuJcg1qdemqzo1_400.gif" alt="kitty" />
 ---
 <!--
 
