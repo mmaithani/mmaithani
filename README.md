@@ -5,7 +5,7 @@
 [![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)](https://github.com/login?return_to=%2Fmmaithani)
 [<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)  
 
-<img width="40" src="https://media.githubusercontent.com/media/PurpleBooth/PurpleBooth/main/me.jpg" alt="kitty" /> [Website](https://mmaithani.github.io) 
+<img width="40" src="https://github.com/mmaithani/mmaithani/blob/master/original.gif" alt="kitty" /> [Website](https://mmaithani.github.io) 
 
 ---
 <!--
