@@ -1,27 +1,27 @@
-### Hi there <img width="30" src="https://github.com/mmaithani/mmaithani/blob/master/original.gif" alt="kitty" />
-
+ 
 <img width="60" src="https://github.com/mmaithani/mmaithani/blob/master/tumblr_mcnyszWcoU1qfqgb9o1_500.gif" />[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)
 [![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)](https://twitter.com/xaret_)
 [![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)](https://github.com/login?return_to=%2Fmmaithani)
 [<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)  
 
+<img width="40" src="https://github.com/mmaithani/mmaithani/blob/master/original.gif" alt="kitty" />
 
 <h1 align="center">Hi 👋, I'm Mohit Maithani</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
 
-- 🔭 I’m currently working on **Deep learning**
+- 🔭 I’m currently working on **Deep learning algorithms**
 
-- 👯 I’m looking to collaborate on **Data science**
+- 👯 I’m looking to collaborate in **Data science, machine learning, coding**
 
 - 👨‍💻 All of my projects are available at [mmaithani.github.io](mmaithani.github.io)
 
-- 📝 I regulary write articles on [mmaithani.github.io/blog](mmaithani.github.io/blog)
+
 
 - 💬 Ask me about **Technology, coding, troubleshooting**
 
-- 📫 How to reach me **mohitmaithani81@gmail.com**
+- 📫  Reach me at **mohitmaithani81@gmail.com**
 
 - ⚡ Fun fact **I love capsicum.**
 
