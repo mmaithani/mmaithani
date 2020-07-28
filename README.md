@@ -6,13 +6,30 @@
 [<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)  
 
 
-<!--
+<h1 align="center">Hi 👋, I'm Mohit Maithani</h1>
+<h3 align="center">A passionate data scientist from India</h3>
 
-- 🌱 I’m currently learning deep learning Deep learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
+
+- 🔭 I’m currently working on **Deep learning**
+
+- 👯 I’m looking to collaborate on **Data science**
+
+- 👨‍💻 All of my projects are available at [mmaithani.github.io](mmaithani.github.io)
+
+- 📝 I regulary write articles on [mmaithani.github.io/blog](mmaithani.github.io/blog)
+
+- 💬 Ask me about **Technology, coding, troubleshooting**
+
+- 📫 How to reach me **mohitmaithani81@gmail.com**
+
+- ⚡ Fun fact **I love capsicum.**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mmaithani&show_icons=true" alt="mmaithani" /> </p>
+
+<p align="center">
+<a href="https://twitter.com/xaret_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xaret_" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohitmaithani" height="20" width="20" /></a>
+<a href="https://kaggle.com/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mohitmaithani" height="20" width="20" /></a>
+<a href="https://instagram.com/aee_nobody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aee_nobody" height="20" width="20" /></a>
+</p>
