@@ -7,23 +7,21 @@
 <img width="40" src="https://github.com/mmaithani/mmaithani/blob/master/original.gif" alt="kitty" />
 
 <h1 align="center">Hi 👋, I'm Mohit Maithani</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A Passionate Data Science & technology Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
 
-- 🔭 I’m currently working on **Deep learning algorithms**
+- 🔭 I’m currently working on **Deep learning problems**
 
-- 👯 I’m looking to collaborate in **Data science, machine learning, coding**
+- 👯 I’m looking to collaborate in **Data science, Deep learning and real world Use-Case**
 
-- 👨‍💻 All of my projects are available at [mmaithani.github.io](mmaithani.github.io)
+- 👨‍💻 Some of my projects are available at [mmaithani.github.io#portfolio](mmaithani.github.io#portfolio)
 
-
-
-- 💬 Ask me about **Technology, coding, troubleshooting**
+- 💬 Ask me about **Technology, Programming, technical troubleshooting, Graphic & web desingning**
 
 - 📫  Reach me at **mohitmaithani81@gmail.com**
 
-- ⚡ Fun fact **I love capsicum.**
+- ⚡ Fun fact **I love Chilli Paneer.**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mmaithani&show_icons=true" alt="mmaithani" /> </p>
 
