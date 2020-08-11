@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate in **Data science, Deep learning and real world Use-Case**
 
-- 👨‍💻 Some of my projects are available at [mmaithani.github.io#portfolio](mmaithani.github.io#portfolio)
+- 👨‍💻 Some of my projects are available at [mmaithani.github.io/#portfolio](mmaithani.github.io#portfolio)
 
 - 💬 Ask me about **Technology, Programming, technical troubleshooting, Graphic & web desingning**
 
