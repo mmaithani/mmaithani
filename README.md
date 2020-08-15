@@ -25,10 +25,11 @@
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mmaithani&show_icons=true" alt="mmaithani" /> </p>
 
 <p align="center">
+ <img width="60" src="https://github.com/mmaithani/mmaithani/blob/master/tumblr_mcnyszWcoU1qfqgb9o1_500.gif" />
 <a href="https://twitter.com/xaret_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xaret_" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohitmaithani" height="20" width="20" /></a>
 <a href="https://kaggle.com/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mohitmaithani" height="20" width="20" /></a>
 <a href="https://instagram.com/aee_nobody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aee_nobody" height="20" width="20" /></a>
 </p>
 
-<img width="60" src="https://github.com/mmaithani/mmaithani/blob/master/tumblr_mcnyszWcoU1qfqgb9o1_500.gif" />[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)
+<img width="60" src="https://github.com/mmaithani/mmaithani/blob/master/tumblr_mcnyszWcoU1qfqgb9o1_500.gif" />
