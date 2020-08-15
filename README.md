@@ -1,5 +1,4 @@
  
-<img width="60" src="https://github.com/mmaithani/mmaithani/blob/master/tumblr_mcnyszWcoU1qfqgb9o1_500.gif" />[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)
 [![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)](https://twitter.com/xaret_)
 [![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)](https://github.com/login?return_to=%2Fmmaithani)
 [<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)  
@@ -31,3 +30,4 @@
 <a href="https://kaggle.com/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mohitmaithani" height="20" width="20" /></a>
 <a href="https://instagram.com/aee_nobody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aee_nobody" height="20" width="20" /></a>
 </p>
+<img width="60" src="https://github.com/mmaithani/mmaithani/blob/master/tumblr_mcnyszWcoU1qfqgb9o1_500.gif" />[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)
