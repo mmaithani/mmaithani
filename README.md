@@ -20,7 +20,7 @@
 
 - 📫  Reach me at **mohitmaithani81@gmail.com**
 
-- ⚡ Fun fact **I love Chilli Paneer.**
+- ⚡ Fun fact **I love Capsicum.**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mmaithani&show_icons=true" alt="mmaithani" /> </p>
 
