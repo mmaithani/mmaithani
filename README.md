@@ -23,8 +23,11 @@
 - ⚡ Fun fact **I love Capsicum.**
 
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center">
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
+<p align="center">
+ 
 [![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mmaithani)](#)
+
 </p>
 
 <p align="center">
@@ -33,5 +36,4 @@
 <a href="https://kaggle.com/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mohitmaithani" height="20" width="20" /></a>
 <a href="https://instagram.com/aee_nobody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aee_nobody" height="20" width="20" /></a>
 </p>
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mmaithani)](https://github.com/anuraghazra/github-readme-stats)
 
