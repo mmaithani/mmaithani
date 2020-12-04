@@ -22,10 +22,10 @@
 
 - ⚡ Fun fact **I love Capsicum.**
 
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center">
 [![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mmaithani)](#)
-
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mmaithani&show_icons=true" alt="mmaithani" /> </p>
+</p>
 
 <p align="center">
 <a href="https://twitter.com/xaret_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xaret_" height="20" width="20" /></a>
