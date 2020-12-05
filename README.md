@@ -6,7 +6,7 @@
 <img width="40" src="https://github.com/mmaithani/mmaithani/blob/master/original.gif" alt="kitty" />
 
 <h1 align="center">Hi 👋, I'm Mohit Maithani</h1>
-<h3 align="center">A Passionate Data Science & technology Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Science & technology Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
 
