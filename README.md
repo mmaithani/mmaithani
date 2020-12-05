@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Technology, Programming, technical troubleshooting, Graphic & web desingning**
 
-- 📫  Reach me at **mohitmaithani81@gmail.com**
+- 📫  Reach me at **mohitmaithani@aol.com**
 
 - ⚡ Fun fact **I love Capsicum.**
 
