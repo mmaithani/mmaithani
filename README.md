@@ -16,7 +16,7 @@
 
 - 👨‍💻 Some of my projects are available at [here](https://mmaithani.github.io/#portfolio)
 
-- 💬 Ask me about **Technology, Programming, technical troubleshooting, Graphic & web desingning**
+- 💬 Ask me about **Technology, Programming, technical troubleshooting, Graphic & Gaming**
 
 - 📫  Reach me at **mohitmaithani@aol.com**
 
