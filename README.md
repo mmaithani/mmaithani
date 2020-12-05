@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently Learning **Deep learning**
 
-- 👯 I’m looking to collaborate in **Data science, Deep learning and other real world Use-Case**
+- 🦸 I’m looking to collaborate in **Data science, Deep learning and other real world Use-Case**
 
 - 👨‍💻 Some of my projects are available at [here](https://mmaithani.github.io/#portfolio)
 
