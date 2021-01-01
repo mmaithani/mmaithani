@@ -5,8 +5,8 @@
 
 <img width="40" src="https://github.com/mmaithani/mmaithani/blob/master/original.gif" alt="kitty" />
 
-<h1 align="center">Hi 👋, I'm Mohit Maithani</h1>
-<h3 align="center">A Passionate Data Science & technology Enthusiast</h3>
+<!-- <h1 align="center">Hi 👋, I'm Mohit Maithani</h1> -->
+<!-- <h3 align="center">A Passionate Data Science & technology Enthusiast</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
 
@@ -19,8 +19,6 @@
 - 💬 Ask me about **Technology, Programming, technical troubleshooting, Graphic & Gaming**
 
 - 📫  Reach me at **mohitmaithani@aol.com**
-
-- ⚡ Fun fact **I love Capsicum.**
 
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
