@@ -10,16 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
 
-- 🔭 I’m currently Learning **Deep learning**
-
-- 🦸 I’m looking to collaborate in **Data science, Deep learning and other real world Use-Case**
-
-- 👨‍💻 Some of my projects are available at [here](https://mmaithani.github.io/#portfolio)
-
-- 💬 Ask me about **Technology, Programming, technical troubleshooting, Graphic & Gaming**
-
-- 📫  Reach me at **mohitmaithani@aol.com**
-
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
 <p align="center">
