@@ -11,7 +11,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
 
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
+<p align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
 <p align="center">
  
 [![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mmaithani)](#)
