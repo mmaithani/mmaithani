@@ -1,31 +1,87 @@
- 
-[![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)](https://twitter.com/xaret_)
-[![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)](https://github.com/login?return_to=%2Fmmaithani)
-[<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)  
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Mohit Maithani</h1>
+<h3 align="center">Data Analyst | AI & Analytics | Digital Quality Systems</h3>
 
-<img width="40" src="https://github.com/mmaithani/mmaithani/blob/master/original.gif" alt="kitty" />
-
-<!-- <h1 align="center">Hi 👋, I'm Mohit Maithani</h1> -->
-<!-- <h3 align="center">A Passionate Data Science & technology Enthusiast</h3> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaithani" alt="mmaithani" /> </p>
-
-
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python programming language" width="50" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"  />
-          
 <p align="center">
- 
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mmaithani)](#)
-
+  <a href="https://linkedin.com/in/mohitmaithani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mmaithani">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
+  </a>
+  <a href="https://kaggle.com/mohitmaithani">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://twitter.com/xaret_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xaret_" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohitmaithani" height="20" width="20" /></a>
-<a href="https://kaggle.com/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mohitmaithani" height="20" width="20" /></a>
-<a href="https://instagram.com/aee_nobody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aee_nobody" height="20" width="20" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mmaithani&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
+## 🚀 About Me
+
+- 🎓 **Master’s in Analytics** – Northeastern University (Boston)
+- 💼 **Data Analyst Co-op** – Digital Quality Systems & Compliance (Pharma / GxP)
+- 🤖 Working on **AI, RAG systems, Snowflake, Streamlit & FDA data**
+- 📊 Strong in **Analytics, Data Engineering & Visualization**
+- 🧠 Passionate about **AI-driven decision systems & regulatory intelligence**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,sql" />
+</p>
+
+### Data & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+</p>
+
+### Platforms & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git" />
+</p>
+
+### Visualization & Apps
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau,streamlit" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmaithani&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaithani&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+- 🧠 **FDA Intelligence Workspace** – AI-powered regulatory RAG system
+- 🍷 **Wine Quality Classification API** – FastAPI + ML (Live)
+- 📊 **Quality Metrics & Complaints Dashboards** – Tableau + Snowflake
+- 🤖 **Enterprise AI Prototypes** – Streamlit, Cortex Search, LLMs
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohitmaithani">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Maithani-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:lnu.mohi@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
+  </a>
+</p>
