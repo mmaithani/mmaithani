@@ -65,10 +65,13 @@ Data Analyst | AI & Analytics | Digital Quality Systems
 - 🧠 **FDA Intelligence Workspace**  
   *AI-powered regulatory RAG system using Snowflake Cortex, Streamlit & LLMs*
 
-- 🍷 **Wine Quality Classification API**  
-  *FastAPI + ML model with live inference & web UI*
+- 📶 **Linekedin Recommendation engine**  
+  *FastAPI + ML model with live inference & wordcloud systems*
+  
+- 🛰️ **Realtime End to End Production planning**  
+  *EBuilt a custom production planning and reporting system, replacing a proposed legacy ERP and saving €70K/year. \n Integrated data across sales, design, production, and delivery, creating a single operational view.*
 
-- 📊 **Quality Metrics & Complaints Dashboards**  
+- ♒ **Quality Metrics & Complaints Dashboards**  
   *Enterprise Tableau dashboards with automated pipelines*
 
 - 🤖 **Enterprise AI Prototypes**  
@@ -94,7 +97,7 @@ Data Analyst | AI & Analytics | Digital Quality Systems
   <a href="https://linkedin.com/in/mohitmaithani">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lnu.mohi@northeastern.edu">
+  <a href="mailto:mohitmaithani81@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
